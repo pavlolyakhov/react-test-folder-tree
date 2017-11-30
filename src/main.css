@@ -1,0 +1,10 @@
+.folder{
+  background-color: lightblue;
+  width:300px;
+  cursor:pointer;
+  margin:5px;
+}
+.childList{
+  background-color: aliceblue;
+  color:darkblue;
+}
