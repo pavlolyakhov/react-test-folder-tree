@@ -4,6 +4,7 @@ API is written in NodeJs and is available on ........
 Each folder has onClick event that will display a list of subfolders or files.
 
 Application transforms the data it received fro API into an object structured by folder name.
+Current version focuses on consuming, transforming and displaying data in initial folder structure.
 
 The idea is to make a folder explorer.
 
