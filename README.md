@@ -1,6 +1,6 @@
 This application is written in React with Redux.
 On load application receives a list of folders with test coverage statistics from an API.
-API is written in NodeJs and is available on ........
+API is written in NodeJs and is available on https://rstartapi.herokuapp.com/getCoverage
 Each folder has onClick event that will display a list of subfolders or files.
 
 Application transforms the data it received fro API into an object structured by folder name.
